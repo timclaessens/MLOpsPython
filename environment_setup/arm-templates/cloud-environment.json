@@ -12,7 +12,6 @@
     },
     "location": {
       "type": "string",
-      "defaultValue": "eastus",
       "allowedValues": [
         "eastus",
         "eastus2",
